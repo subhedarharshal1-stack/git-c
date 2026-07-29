@@ -1,2 +1,2 @@
-# git-c
+# Git-C
 Hi! My name is Harshal. This repository is for practicing the GitHub Flow.
